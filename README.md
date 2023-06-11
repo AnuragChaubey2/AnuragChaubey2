@@ -1,7 +1,6 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))]
 <h1 align="center">Hi 👋, I'm Anurag Chaubey</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragchaubey2" alt="anuragchaubey2" /></a> </p>
 
 - 🌱 I’m currently learning **Low Level Design as well as more insights on backend development using golang**
