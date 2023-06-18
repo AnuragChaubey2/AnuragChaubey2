@@ -1,3 +1,5 @@
+![Alt text](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 # 💫 About Me:
 🌱 I’m currently learning Low-Level Design as well as more insights on backend development using Golang<br><br>💬 Ask me about Golang, LLD, Kubernetes, Docker, Microservices, RestAPI's and more.<br><br>📫 How to reach me anuragchaubey2@gmail.com<br><br>⚡ Fun fact When I'm not busy coding, you'll often find me strumming my guitar and playing my favourite tunes. Music is not just a passion; it's a creative outlet that brings me joy and helps me unwind.<br><br>
 
