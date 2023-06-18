@@ -1,4 +1,4 @@
-![Alt text](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![Alt text](https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966)
 
 # 💫 About Me:
 🌱 I’m currently learning Low-Level Design as well as more insights on backend development using Golang<br><br>💬 Ask me about Golang, LLD, Kubernetes, Docker, Microservices, RestAPI's and more.<br><br>📫 How to reach me anuragchaubey2@gmail.com<br><br>⚡ Fun fact When I'm not busy coding, you'll often find me strumming my guitar and playing my favourite tunes. Music is not just a passion; it's a creative outlet that brings me joy and helps me unwind.<br><br>
